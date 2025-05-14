@@ -1,3 +1,4 @@
+
 # Hi, I'm Prospov👋
 
 - 🔭 I’m currently working on small web projects using HTML, CSS, and JavaScript.
@@ -16,12 +17,12 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=itsprospov&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-![Funny gif](https://media2.giphy.com/avatars/Mo_3_Gif/vaQ81wjOKdqv.gif)
+<!-- Resized GIF using HTML -->
+<img src="https://media2.giphy.com/avatars/Mo_3_Gif/vaQ81wjOKdqv.gif" width="180" />
 
+<!-- Visit Counter -->
+[![](https://visitcount.itsvg.in/api?id=itsprospov&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=itsprospov&color=blue)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
-
-
